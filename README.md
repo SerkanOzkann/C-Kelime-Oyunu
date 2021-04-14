@@ -12,3 +12,5 @@ C# ile hazırlanmış Kelime Oyunu
 ![Screenshot_5](https://user-images.githubusercontent.com/57104731/114640639-38d12900-9cd9-11eb-8d17-eeaf8c70f8f5.png)
 <br>
 ![Screenshot_7](https://user-images.githubusercontent.com/57104731/114640664-41296400-9cd9-11eb-8acb-784066ccf99a.png)
+<br>
+![Screenshot_6](https://user-images.githubusercontent.com/57104731/114640760-6f0ea880-9cd9-11eb-8b41-2960ecb96534.png)
